@@ -1,0 +1,32 @@
+/*
+
+https://colorhunt.co/palette/8e3200a64b2ad7a86effebc1
+
+8E3200
+A64B2A
+D7A86E
+FFEBC1
+*/
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.header{
+    height:100vh;
+    background-image:url("../images/balaiComida.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.dishes{
+    background-color:#a64b2a;
+    height: 100vh;
+    text-align: center;
+}
+
+h2{
+    padding:2rem;
+}
